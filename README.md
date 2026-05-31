@@ -90,7 +90,7 @@ npm install -g expo-cli
 ### 2. Клонування репозиторію
 
 ```bash
-git clone https://github.com/[твій_github]/aicoach.git
+git clone https://github.com/V1rtualChild/AICoach
 cd aicoach
 ```
 
